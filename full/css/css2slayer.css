@@ -1,0 +1,79 @@
+.card-color-bord {
+  border-radius: 15px;
+  border: 1px solid rgba(242,242,242,0.600);
+  background: rgba(242,242,242,0.600);
+}
+.btn-trasparent {
+  background: rgb(244,244,244);
+  width: 76px;
+  margin: 0px;
+  margin-top: -9px;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+.pucentos_progress-bar {
+  float: left;
+}
+.lista_file_input {
+  margin: 6px;
+  font-size: 14px;
+  color: black;
+  padding: 8px;
+  border-radius: 3px;
+}
+.h4-text-font {
+  font-family: Sans-Serif;
+}
+.top-levante-duvs {
+  margin-top: -5px;
+}
+.desktop {
+  display: block;
+  /* ou inline, inline-block */
+}
+.mobile {
+  display: none;
+}
+@media(max-width: 480px) {
+  .desktop {
+    display: none;
+  }
+  .mobile {
+    display: block;
+    /* ou inline, inline-block */
+  }
+}
+.background-color-checker {
+  background: #030307ef;
+}
+.background-color-div-checker{
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
+}
+.text-color-chlname {
+  width: 100%!important;
+  font-size: 14px!important;
+  padding: 3%!important;
+  border-radius: 19px 19px 4px 4px;
+}
+
+.color-div-list {
+  background: #21212d;
+  border-radius: 20px!important;
+}
+.color-div-list h5{
+  color: #b2b2b2;
+}
+.color-div-list h4{
+  color: #b2b2b2;
+}
+.badge-dub-color-dark {
+  border: 1px solid #21212d;
+}
+.hr-checker {
+  background: transparent;
+  opacity: 8.0rem;
+}
+.ronud-infos {
+  border-radius: 50px!important
+}
+
